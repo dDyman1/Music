@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9149F6</color>
+    <color name="colorPrimaryLight">#0483C3</color>
+    <color name="colorPrimaryDark">#2A0087</color>
+
+    <color name="colorAccent">#12FBE5</color>
+
+    <color name="colorDefaultBackground">#9F9F9F</color>
+
+    <color name="scrollBackground">#78F436</color>
+
+    <color name="colorPrimaryText">#000000</color>
+    <color name="colorPrimaryTextDark">#FFFFFF</color>
+    <color name="colorSecondaryText">@android:color/secondary_text_light</color>
+
+</resources>

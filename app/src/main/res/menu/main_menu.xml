@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/settingsKey"
+        android:icon="@drawable/ic_settings_black"
+        app:showAsAction="never"
+        android:title="@string/setting" />
+
+    <item
+        android:id="@+id/aboutData"
+        android:icon="@drawable/info_key_black"
+        app:showAsAction="never"
+        android:title="@string/about_info"
+        />
+
+    <item
+        android:id="@+id/shuffleKey"
+        android:icon="@drawable/ic_shuffle_black"
+        app:showAsAction="ifRoom"
+        android:title="@string/shuffle" />
+
+</menu>

@@ -1,0 +1,23 @@
+<androidx.preference.PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        app:title="@string/pref_header_display">
+
+    <SwitchPreference
+        app:key="@string/darkModeKey"
+        app:summaryOn="@string/useDarkModeSummaryOn"
+        app:summaryOff="@string/useDarkModeSummaryOff"
+        app:switchTextOn="@string/useDarkModeSwitchTextOn"
+        app:switchTextOff="@string/useDarkModeSwitchTextOff"
+        app:defaultValue="@string/useDarkModeDefaultValue"
+        app:title="@string/useDarkModeSwitchTitle"
+        app:useSimpleSummaryProvider="true"
+        />
+    </PreferenceCategory>
+    <SwitchPreference
+        app:key="@string/useWhatsAppKey"
+        app:title="@string/useWhatsAppTitle"
+        app:summary="Show media from WhatsApp folder"
+        app:defaultValue="false"
+        />
+</androidx.preference.PreferenceScreen>

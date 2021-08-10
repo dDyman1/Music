@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Music</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="songs">Songs</string>
+    <string name="artists">Artists</string>
+    <string name="genres">Genres</string>
+    <string name="playlists">Playlists</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="imageDescribe">AudioImage</string>
+    <string name="play_pause">Play/Pause</string>
+    <string name="reverse">reverse</string>
+    <string name="forward">forward</string>
+    <string name="toolbarimg">toolBarImg</string>
+    <string name="bottombarimg">bottomBarImg</string>
+    <string name="setting">Settings</string>
+    <string name="shuffle">Shuffle</string>
+    <string name="about_info">About Info</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Settings</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Preferences -->
+
+    <string name="darkModeKey">DarkMode</string>
+    <string name="useDarkModeSummaryOn">Use dark mode (even when not system default)</string>
+    <string name="useDarkModeSummaryOff">Use system default</string>
+    <string name="useDarkModeSwitchTextOn">On</string>
+    <string name="useDarkModeSwitchTextOff">Off</string>
+    <string name="useDarkModeDefaultValue">true</string>
+    <string name="useDarkModeSwitchTitle">Dark Mode</string>
+    <string name="pref_header_display">Miscellaneous</string>
+    <string name="useWhatsAppKey">useWhatsApp</string>
+    <string name="useWhatsAppTitle">Show WhatsApp Audio</string>
+
+    <string name="about_dialog_title">About Music Player</string>
+    <string name="about_dialog_banner"><![CDATA[Slightly plagarized by: \nddyman@student.touro.edu \n\nWas made for educational and entertainment purposes\nThank you Corona for making school and motivation much more difficult]]></string>
+</resources>
